@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Published\obj\Debug\net7.0\WebApplicationLocal.sourcelink.json
